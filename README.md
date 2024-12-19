@@ -1,4 +1,4 @@
-# ProceduralCityGenerator
+# Procedural City Generator
 This is a Blender add-on that procedurally generates a city.
 
 Procedural generator with cubes of various random heights and randomly assigned colors:
